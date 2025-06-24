@@ -4,21 +4,16 @@
 
 # Technologies and Tools I use:
 <p align="left">
-  <!-- Programming Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL" />
-  
-  <!-- Tools & Tech -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="Markdown" />
-
-  <!-- Modeling & Architecture (using generic icons or text badges) -->
-  <img src="https://img.shields.io/badge/UML-Modeling-blue?style=flat-square" alt="UML" />
-  <img src="https://img.shields.io/badge/OntoUML-Semantic%20Modeling-brightgreen?style=flat-square" alt="OntoUML" />
-  <img src="https://img.shields.io/badge/ArchiMate-Enterprise%20Architecture-blueviolet?style=flat-square" alt="ArchiMate" />
-  <img src="https://img.shields.io/badge/Enterprise%20Architect-Modeling%20Tool-orange?style=flat-square" alt="Enterprise Architect" />
+  <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/> </a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/> </a>
+  <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/> </a>
+  <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> </a>
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/> </a>
+  <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/> </a>
+  <a href="https://www.markdownguide.org/" target="_blank"> <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white"/> </a>
+  <a href="https://www.uml.org/" target="_blank"> <img src="https://img.shields.io/badge/UML-ffffff?style=flat&logoColor=black"/> </a>
+  <a href="https://ontouml.org/" target="_blank"> <img src="https://img.shields.io/badge/OntoUML-7952B3?style=flat&logoColor=white"/> </a>
+  <a href="https://pub.archimate.nl/" target="_blank"> <img src="https://img.shields.io/badge/ArchiMate-003366?style=flat&logoColor=white"/> </a>
+  <a href="https://sparxsystems.com/" target="_blank"> <img src="https://img.shields.io/badge/Enterprise%20Architect-003B75?style=flat&logoColor=white"/> </a>
 </p>
