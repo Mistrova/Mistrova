@@ -2,6 +2,13 @@
 
 # About Me:
 
+# My projects:
+- Maze with Riddles (C++)
+- You'll float 2 (C++)
+- Small project (Java)
+- Medium size project (Java)
+- Databse (SQLite + Tableau)
+
 # Technologies and Tools I use:
 <p align="left">
   <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/> </a>
