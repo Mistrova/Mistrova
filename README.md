@@ -24,3 +24,6 @@
   <a href="https://pub.archimate.nl/" target="_blank"> <img src="https://img.shields.io/badge/ArchiMate-003366?style=flat&logoColor=white"/> </a>
   <a href="https://sparxsystems.com/" target="_blank"> <img src="https://img.shields.io/badge/Enterprise%20Architect-003B75?style=flat&logoColor=white"/> </a>
 </p>
+
+# My LeetCode Stats
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=your-leetcode-error_ree)
