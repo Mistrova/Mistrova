@@ -26,5 +26,3 @@
 </p>
 
 # My LeetCode Stats
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=error_ree)
-![LeetCode Stats](https://leetcode-readme-stats.vercel.app/api?username=error_ree)
